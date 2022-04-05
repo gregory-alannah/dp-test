@@ -9,6 +9,7 @@ function App() {
         <h1>
           Just testing to see if the text will be reflected to the live site
         </h1>
+        <h2>Long way to go!</h2>
       </header>
     </div>
   );
